@@ -41,7 +41,7 @@ function App() {
   return (
     <Router>
       <Navbar
-        title="Apputils"
+        title="Appsutils"
         mode={mode}
         toggleMode={toggleMode1}
         changeTheme={changeTheme}
